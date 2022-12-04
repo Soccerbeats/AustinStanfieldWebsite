@@ -3,7 +3,7 @@ layout: page
 # Index page
 ---
 
-# About Me:
+# About Austin:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **Austin is** a project cordinator, engineer, and IT specialist by day, and a creator, designer, and tinkerer by night. He is a results-driven, adaptable, self-learner who enjoys problem solving, technical troubleshooting, and implementing solutions that help him and his team be successful. This website’s purpose is to showcase Austin, personally and professionally including his experience, his work, his documentation and more. 
 
