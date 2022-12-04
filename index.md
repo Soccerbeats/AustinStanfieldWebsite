@@ -3,12 +3,9 @@ layout: page
 # Index page
 ---
 
-
-
 # About Me:
 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **I am** a results-driven, adaptable, self-learner. I enjoy problem solving, technical troubleshooting, and implementing solutions that help me and my team be successful. This website’s purpose is to showcase myself in every way, Professionally and unprofessionally. This includes my experience, my work, my documentation and more. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **I am** a results-driven, adaptable, self-learner. I enjoy problem solving, technical troubleshooting, and implementing solutions that help me and my team be successful. This website’s purpose is to showcase myself in every way, professionally and unprofessionally. This includes my experience, my work, my documentation and more. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **I have** been working for Southern Cross for over six years. In this time, I have gone from a Field Technician to a Project Dispatcher to Project Coordinator in the PMO group. Through this job, I have come familiar with anything and everything that might be used daily inside of an office. I work with SQL and data management sweets as well as all the Microsoft suite, PowerBi, Jira, Clevest and more. You can check out my resume by click clicking [**RESUME**](https://austinstanfield.com/resume) in the navigation menu.
 
