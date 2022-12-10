@@ -1,0 +1,44 @@
+---
+title: LSPDFR RADIO CODES
+author: Austin
+categories: [LSPDFR]
+tags: []
+math: true
+mermaid: true
+pin: true
+render_with_liquid: false
+---
+
+# STATUS
+| | |
+| --- | --- |
+| 10-8 | AVAILABLE |
+| 10-6 | BUSY |
+| 10-80 | IN PURSUIT |
+| 10-42 | OUT OF SERVICE |
+| 10-19 | RETURNING TO STATION |
+| 10-23 | ON SCENE |
+| 10-11 | TRAFFIC STOP |
+| CODE 2 | RESPONDING NO LIGHTS |
+| CODE 3 | RESPONDING LIGHTS |
+| CODE 4 | CLEAR |
+| CODE 6 | INVESTIGATIGN |
+
+# ADVISORY
+
+|||
+|---|---|
+|10-15|SUSPECT IN CUSTODY|
+|10-1|SUSPECT LOST|
+|10-47|INJURED PERSON|
+|10-44|DECEASED PERSON|
+|10-10|FIGHT|
+
+# REQUESTS
+|||
+|---|---|
+|10-32|FELONY STOP BACKUP|
+|10-32|K9 UNIT|
+|10-53|FIRE|
+|10-52|EMS|
+|10-79|CORONER|
