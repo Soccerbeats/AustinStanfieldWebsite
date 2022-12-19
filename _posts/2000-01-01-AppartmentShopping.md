@@ -93,7 +93,6 @@ https://photos.zillowstatic.com/fp/76241b2273acd573efb4ad406a7eacb9-cc_ft_576.we
 # 2) 1238 63rd st (2650)
 1238 63rd st (2500)
 * Application Sent To us
-file:///C:/Users/socce/Downloads/Rental-Application-Form-2.pdf
 
 [Link](https://www.zillow.com/homedetails/1238-63rd-St-APT-D323-Brooklyn-NY-11219/2061008995_zpid/)  
 
