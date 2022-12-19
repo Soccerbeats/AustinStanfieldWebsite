@@ -1,6 +1,6 @@
 ---
 title: LSPDFR RADIO CODES
-author: Austin
+author: Austin Stanfield
 categories: [LSPDFR]
 tags: []
 math: true

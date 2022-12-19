@@ -1,6 +1,6 @@
 ---
 title: LSPDFR CONTROLS
-author: Austin
+author: Austin Stanfield
 categories: [LSPDFR]
 tags: []
 math: true
@@ -11,6 +11,8 @@ render_with_liquid: false
 
 MDTCallsign = 1-Adam-7
 
+| Random Controls | --- |
+| --- | --- |
 |Roll down Window: Hold Period|Compulite:|
 |Cancel Traffic Stop: LShift R|Open computer in car: Hold E|
 |Restrain Deceased : LShift T|Open Tablet: Lcontrol N|
