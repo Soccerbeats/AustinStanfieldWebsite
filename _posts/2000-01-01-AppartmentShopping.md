@@ -27,6 +27,10 @@ render_with_liquid: false
 ---
 # 1) 1673 Ocean Ave (2500)
 1673 Ocean Ave (2500)
+[Link](https://www.zillow.com/homedetails/1673-Ocean-Ave-6G-Brooklyn-NY-11230/2078111362_zpid/)  
+![](
+https://photos.zillowstatic.com/fp/76241b2273acd573efb4ad406a7eacb9-cc_ft_576.webp
+)  
 * Parking incuded
 * Utilitys included
 	◦	Costs and upfront fees?  
@@ -44,13 +48,16 @@ render_with_liquid: false
 	◦	What’s the neighborhood like?  
 	✓	Lovely lobby, office hangout spot, package room  
 
-[Link](https://www.zillow.com/homedetails/1673-Ocean-Ave-6G-Brooklyn-NY-11230/2078111362_zpid/)  
-![](
-https://photos.zillowstatic.com/fp/76241b2273acd573efb4ad406a7eacb9-cc_ft_576.webp
-)
+
 
 # 2) 1238 63rd st (2650)
 1238 63rd st (2500)
+[Link](https://www.zillow.com/homedetails/1238-63rd-St-APT-D323-Brooklyn-NY-11219/2061008995_zpid/)  
+
+![](
+https://photos.zillowstatic.com/fp/726faafd76f41af58f0549e749bb0c53-cc_ft_384.webp
+)  
+
 * Application Sent To us
 	◦	7 pm- 1238 63rd st.  
 	◦	Costs and upfront fees?  
@@ -73,14 +80,15 @@ https://photos.zillowstatic.com/fp/76241b2273acd573efb4ad406a7eacb9-cc_ft_576.we
 	✓	Big private meeting room, lots of common space, huge gym  
 	✓	Track on the roof to run  
 
-[Link](https://www.zillow.com/homedetails/1238-63rd-St-APT-D323-Brooklyn-NY-11219/2061008995_zpid/)  
 
-![](
-https://photos.zillowstatic.com/fp/726faafd76f41af58f0549e749bb0c53-cc_ft_384.webp
-)
 
 # 3) 1613 Brooklyn Ave (2600)
 1613 Brooklyn Ave (2600)
+[Link](https://www.zillow.com/homedetails/1613-Brooklyn-Ave-APT-605-Brooklyn-NY-11210/2060728681_zpid/)  
+![](
+https://photos.zillowstatic.com/fp/485b3b478f6609ca00f117d91601d1af-cc_ft_576.webp
+)  
+
 * parking 250/m
 	◦	5:45- 1613 Brooklyn Ave  
 	◦	Costs and upfront fees?  
@@ -101,12 +109,12 @@ https://photos.zillowstatic.com/fp/726faafd76f41af58f0549e749bb0c53-cc_ft_384.we
 	✓	close to the 2 and 5 train  
 	✓	Inside of the medicine cabinet is rusty af  
 	✓	Rooftop has a pretty view  
-[Link](https://www.zillow.com/homedetails/1613-Brooklyn-Ave-APT-605-Brooklyn-NY-11210/2060728681_zpid/)  
-![](
-https://photos.zillowstatic.com/fp/485b3b478f6609ca00f117d91601d1af-cc_ft_576.webp
-)
+
 
 # 4) 495 e 7th St (2550)
+[Link](https://www.zillow.com/homedetails/495-E-7th-St-79-Brooklyn-NY-11218/2062151349_zpid/)  
+![](https://photos.zillowstatic.com/fp/d8324c6069433c1a9c3c6facf73a845b-p_f.jpg)  
+
 495 e 7th St (2550)
 * heat and water included Gas maybe  
 * no board   
@@ -138,10 +146,14 @@ Waitlist
 -appliances included?  
 -amenities?  
 -what’s this neighborhood like?  
-[Link](https://www.zillow.com/homedetails/495-E-7th-St-79-Brooklyn-NY-11218/2062151349_zpid/)  
-![](https://photos.zillowstatic.com/fp/d8324c6069433c1a9c3c6facf73a845b-p_f.jpg)
+
 
 # 5) 135 Ocean Pkwy (2750)
+[Link](https://www.zillow.com/homedetails/135-Ocean-Pkwy-APT-11-Brooklyn-NY-11218/2060446926_zpid/)  
+![](
+https://photos.zillowstatic.com/fp/ca547fb6e3a51b45c57b647789b748f8-p_f.jpg
+)  
+
 135 Ocean Pkwy (2750)
 * Heat Water Gas included  
 * Flexible move in  
@@ -188,12 +200,13 @@ Yes to pets
 -what’s this neighborhood like?  
 Markets, cafes close  
 -waiting list for dogs  
-[Link](https://www.zillow.com/homedetails/135-Ocean-Pkwy-APT-11-Brooklyn-NY-11218/2060446926_zpid/)  
-![](
-https://photos.zillowstatic.com/fp/ca547fb6e3a51b45c57b647789b748f8-p_f.jpg
-)
+
 
 # 6) 2734 Snyder ave (2400)
+[Link](https://www.zillow.com/homedetails/2734-Snyder-Ave-APT-3A-Brooklyn-NY-11226/2091309958_zpid/)  
+![](
+https://photos.zillowstatic.com/fp/5c4a4e9c27fce8155850ca42438de302-cc_ft_576.webp
+)  
 2734 Snyder ave (2400)
 ◦	Costs and upfront fees?
 	✓	3 months up front  
@@ -211,10 +224,7 @@ https://photos.zillowstatic.com/fp/ca547fb6e3a51b45c57b647789b748f8-p_f.jpg
 	✓	Yes  
 	◦	What’s the neighborhood like?  
 	✓	Park, 2/3/4/5 trains  
-[Link](https://www.zillow.com/homedetails/2734-Snyder-Ave-APT-3A-Brooklyn-NY-11226/2091309958_zpid/)  
-![](
-https://photos.zillowstatic.com/fp/5c4a4e9c27fce8155850ca42438de302-cc_ft_576.webp
-)
+
 
 
 ---
