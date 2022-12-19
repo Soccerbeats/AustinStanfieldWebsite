@@ -27,7 +27,7 @@ render_with_liquid: false
 ---
 # 1) 1673 Ocean Ave (2500)
 1673 Ocean Ave (2500)
-[Link](https://www.zillow.com/homedetails/1673-Ocean-Ave-6G-Brooklyn-NY-11230/2078111362_zpid/)  
+[Link](https://www.zillow.com/homedetails/1673-Ocean-Ave-6G-Brooklyn-NY-11230/2078111362_zpid/){:target="_blank"}  
 ![](
 https://photos.zillowstatic.com/fp/76241b2273acd573efb4ad406a7eacb9-cc_ft_576.webp
 )  
@@ -52,7 +52,7 @@ https://photos.zillowstatic.com/fp/76241b2273acd573efb4ad406a7eacb9-cc_ft_576.we
 
 # 2) 1238 63rd st (2650)
 1238 63rd st (2500)
-[Link](https://www.zillow.com/homedetails/1238-63rd-St-APT-D323-Brooklyn-NY-11219/2061008995_zpid/)  
+[Link](https://www.zillow.com/homedetails/1238-63rd-St-APT-D323-Brooklyn-NY-11219/2061008995_zpid/){:target="_blank"}  
 
 ![](
 https://photos.zillowstatic.com/fp/726faafd76f41af58f0549e749bb0c53-cc_ft_384.webp
@@ -84,7 +84,7 @@ https://photos.zillowstatic.com/fp/726faafd76f41af58f0549e749bb0c53-cc_ft_384.we
 
 # 3) 1613 Brooklyn Ave (2600)
 1613 Brooklyn Ave (2600)
-[Link](https://www.zillow.com/homedetails/1613-Brooklyn-Ave-APT-605-Brooklyn-NY-11210/2060728681_zpid/)  
+[Link](https://www.zillow.com/homedetails/1613-Brooklyn-Ave-APT-605-Brooklyn-NY-11210/2060728681_zpid/){:target="_blank"}  
 ![](
 https://photos.zillowstatic.com/fp/485b3b478f6609ca00f117d91601d1af-cc_ft_576.webp
 )  
@@ -112,7 +112,7 @@ https://photos.zillowstatic.com/fp/485b3b478f6609ca00f117d91601d1af-cc_ft_576.we
 
 
 # 4) 495 e 7th St (2550)
-[Link](https://www.zillow.com/homedetails/495-E-7th-St-79-Brooklyn-NY-11218/2062151349_zpid/)  
+[Link](https://www.zillow.com/homedetails/495-E-7th-St-79-Brooklyn-NY-11218/2062151349_zpid/){:target="_blank"}  
 ![](https://photos.zillowstatic.com/fp/d8324c6069433c1a9c3c6facf73a845b-p_f.jpg)  
 
 495 e 7th St (2550)
@@ -149,7 +149,7 @@ Waitlist
 
 
 # 5) 135 Ocean Pkwy (2750)
-[Link](https://www.zillow.com/homedetails/135-Ocean-Pkwy-APT-11-Brooklyn-NY-11218/2060446926_zpid/)  
+[Link](https://www.zillow.com/homedetails/135-Ocean-Pkwy-APT-11-Brooklyn-NY-11218/2060446926_zpid/){:target="_blank"}  
 ![](
 https://photos.zillowstatic.com/fp/ca547fb6e3a51b45c57b647789b748f8-p_f.jpg
 )  
@@ -203,7 +203,7 @@ Markets, cafes close
 
 
 # 6) 2734 Snyder ave (2400)
-[Link](https://www.zillow.com/homedetails/2734-Snyder-Ave-APT-3A-Brooklyn-NY-11226/2091309958_zpid/)  
+[Link](https://www.zillow.com/homedetails/2734-Snyder-Ave-APT-3A-Brooklyn-NY-11226/2091309958_zpid/){:target="_blank"}  
 ![](
 https://photos.zillowstatic.com/fp/5c4a4e9c27fce8155850ca42438de302-cc_ft_576.webp
 )  
