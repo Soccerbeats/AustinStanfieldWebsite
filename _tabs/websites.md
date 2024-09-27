@@ -19,14 +19,14 @@ Heaven Lei Lucas (she/her) is a Wisconsin native turned New York-based actress, 
 
 <br>
 
-# SPIKESPHOTO.COM
+# SPIKESPHOTO.COM (Migration Pending)
 [![https://spikesphoto.com](https://cdn.austinstanfield.com/AustinStanfieldWebsite/ScreenShots/Spikesphoto.png)](https://spikesphoto.com)
 My name is Austin Stanfield.
 I'm a portrait photographer, capturing emotion and feeling through my lens. Through the use of exposure, bokeh, and my abundant creativity, the phrase, "a picture is worth a thousand words", is brought to life in my work.
   
 <br>
 
-# OLD AUSTINSTANFIELD.COM
+# OLD AUSTINSTANFIELD.COM (Depreciated)
 [![https://austin.spikescraft.com](https://cdn.austinstanfield.com/AustinStanfieldWebsite/ScreenShots/AustinStanfieldOld.png)](https://austin.spikescraft.com)
 
 The old Austinstanfield.com design was put into retirement and has been replaced with an all new minimalist design you see before you. This site was a lot of fun and good-looking, so I thought I would still include it in the list of websites for your enjoyment.
